@@ -1,0 +1,16 @@
+{
+  "name": "pp-allumette-",
+  "version": "1.0.0",
+  "description": "exo allumette",
+  "main": "main.js",
+  "author": "Soufiane LE BRETON",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^7.3.3",
+    "lodash": "^4.17.20",
+    "yarn": "^1.22.10"
+  },
+  "scripts": {
+    "start": "node src/main.js"
+  }
+}
